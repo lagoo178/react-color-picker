@@ -1,7 +1,7 @@
 export default {
-    squareSize: 200,
-    barSize: 20,
-    crossSize: 15,
-    inputSize: 40,
-    delay: 150
+    squareSize: 400,
+    barSize: 40,
+    crossSize: 30,
+    inputSize: 80,
+    delay: 10
   }
